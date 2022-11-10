@@ -1,11 +1,11 @@
-<h1 style="text-align: center">
+<h1 align="center">
     Desenvolvedor front-end
 </h1>
 
 
 <br>
 
-<div style="text-align: center" >
+<div align="center">
     <a href="https://github.com/Leo-Henrique">
     <img height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=Leo-Henrique&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -16,7 +16,7 @@
 
 <br>
 
-<div style="text-align: center">
+<div align="center">
     <img alt="HTML" 
     height="40" 
     width="50" 
@@ -43,7 +43,7 @@
 
 <br>
 
-<div style="text-align: center">
+<div align="center">
     <a href="mailto: leonardo0507.henrique@gmail.com" 
     target="_blank">
         <img style="border-radius: 5px"
