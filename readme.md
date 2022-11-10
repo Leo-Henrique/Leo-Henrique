@@ -41,8 +41,6 @@
 
 ***
 
-<br>
-
 <div align="center">
     <a href="mailto: leonardo0507.henrique@gmail.com" 
     target="_blank">
