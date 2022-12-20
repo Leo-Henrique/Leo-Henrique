@@ -17,7 +17,7 @@
     <li>
         Confira <a href="https://www.freecodecamp.org/portuguese/leo-henrique">meu perfil no freeCodeCamp</a>
     </li>
-<ul>
+</ul>
 
 <br>
 
