@@ -7,11 +7,7 @@
 </p>
 
 <p>
-    Gosto muito de praticar o que estou aprendendo com diversos exercícios e projetos.
-</p>
-
-<p>
-    Antes de realizar alguns projetos da plataforma <a href="https://www.frontendmentor.io/profile/Leo-Henrique">Frontend Mentor</a> que publico individualmente como repositório aqui no GitHub – variando desde desafios simples para praticar alguns conceitos ou bem amplos para internalizar todo o meu estudo –, gosto de executar a maioria dos exercícios no <a href="https://www.freecodecamp.org/portuguese/leo-henrique">freeCodeCamp</a> e complementar com exercícios das comunidades que encontro no Google!
+    Antes de desenvolver alguns projetos do <a href="https://www.frontendmentor.io/profile/Leo-Henrique">Frontend Mentor</a> que publico aqui no GitHub – variando desde desafios simples para praticar alguns conceitos ou bem amplos para internalizar todo o meu estudo –, gosto de fazer vários exercícios pelo <a href="https://www.freecodecamp.org/portuguese/leo-henrique">freeCodeCamp</a>!
 </p>
 
 <br>
