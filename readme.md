@@ -7,8 +7,17 @@
 </p>
 
 <p>
-    Antes de desenvolver alguns projetos do <a href="https://www.frontendmentor.io/profile/Leo-Henrique">Frontend Mentor</a> que publico aqui no GitHub – variando desde desafios simples para praticar alguns conceitos ou bem amplos para internalizar todo o meu estudo –, gosto de fazer vários exercícios pelo <a href="https://www.freecodecamp.org/portuguese/leo-henrique">freeCodeCamp</a>!
+    Antes de desenvolver alguns projetos do <b>Frontend Mentor</b> que publico aqui no GitHub – variando desde desafios simples para praticar alguns conceitos ou bem amplos para internalizar todo o meu estudo –, gosto de fazer vários exercícios pelo <b>freeCodeCamp</b>!
 </p>
+
+<ul>
+    <li>
+        Confira <a href="https://www.frontendmentor.io/profile/Leo-Henrique">meu perfil no Frontend Mentor</a>
+    </li>
+    <li>
+        Confira <a href="https://www.freecodecamp.org/portuguese/leo-henrique">meu perfil no freeCodeCamp</a>
+    </li>
+<ul>
 
 <br>
 
