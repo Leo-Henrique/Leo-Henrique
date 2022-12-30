@@ -24,7 +24,7 @@
 <div align="center">
     <a href="https://github.com/Leo-Henrique">
     <img height="160em" 
-    src="https://github-readme-stats.vercel.app/api?username=Leo-Henrique&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+    src="https://github-readme-stats.vercel.app/api?username=Leo-Henrique&show_icons=true&theme=github_dark&include_all_commits=true" />
     <img height="160em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Henrique&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
