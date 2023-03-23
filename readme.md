@@ -7,17 +7,12 @@
 </p>
 
 <p>
-    Antes de desenvolver alguns projetos do <b>Frontend Mentor</b> que publico aqui no GitHub – variando desde desafios simples para praticar alguns conceitos ou bem amplos para internalizar todo o meu estudo –, gosto de fazer vários exercícios pelo <b>freeCodeCamp</b>!
+    Você encontrará nos meus repositórios principalmente projetos pessoais que encontro no <b>Frontend Mentor</b>, variando desde desafios simples para praticar alguns conceitos ou bem amplos para internalizar todos os meus estudos!
 </p>
 
-<ul>
-    <li>
-        Confira <a href="https://www.frontendmentor.io/profile/Leo-Henrique">meu perfil no Frontend Mentor</a>
-    </li>
-    <li>
-        Confira <a href="https://www.freecodecamp.org/portuguese/leo-henrique">meu perfil no freeCodeCamp</a>
-    </li>
-</ul>
+<p>
+    Confira <a href="https://www.frontendmentor.io/profile/Leo-Henrique">meu perfil no Frontend Mentor</a>.
+</p>
 
 <br>
 
