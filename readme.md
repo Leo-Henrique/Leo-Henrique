@@ -10,9 +10,17 @@
     Você encontrará nos meus repositórios principalmente projetos pessoais que encontro no <b>Frontend Mentor</b>, variando desde desafios simples para praticar alguns conceitos ou bem amplos para internalizar todos os meus estudos!
 </p>
 
-<p>
-    Confira <a href="https://www.frontendmentor.io/profile/Leo-Henrique">meu perfil no Frontend Mentor</a>.
-</p>
+<ul>
+    <li>
+        Confira <a href="https://www.frontendmentor.io/profile/Leo-Henrique">meus projetos / perfil no Frontend Mentor</a>.
+    </li>
+    <li>
+        Confira <a href="https://www.npmjs.com/~leo-henrique">meus pacotes no NPM</a>.
+    </li>
+    <li>
+        Confira <a href="https://github.com/Leo-Henrique?tab=repositories&q=clone&type=&language=&sort=">meus clones de interfaces</a>.
+    </li>
+</ul>
 
 <br>
 
