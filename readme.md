@@ -47,14 +47,22 @@
     height="40" 
     width="50" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img alt="SASS" 
-    height="40" 
-    width="50" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
     <img alt="React" 
     height="40" 
     width="50" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+    <img alt="styled-components" 
+    height="40" 
+    width="40" 
+    src="https://avatars.githubusercontent.com/u/20658825?v=4"/>
+    <img alt="SASS" 
+    height="40" 
+    width="50" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+    <img alt="Vite" 
+    height="50" 
+    width="50" 
+    src="https://avatars.githubusercontent.com/u/65625612?v=4"/>
 </div>
 
 ***
