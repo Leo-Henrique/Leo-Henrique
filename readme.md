@@ -6,10 +6,6 @@
     Olá, sou o Leonardo! 
 </p>
 
-<p>
-    Você encontrará nos meus repositórios principalmente projetos pessoais que encontro no <b>Frontend Mentor</b>, variando desde desafios simples para praticar alguns conceitos ou bem amplos para internalizar todos os meus estudos!
-</p>
-
 <ul>
     <li>
         Confira <a href="https://www.frontendmentor.io/profile/Leo-Henrique">meus projetos / perfil no Frontend Mentor</a>.
