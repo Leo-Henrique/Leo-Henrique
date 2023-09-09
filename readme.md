@@ -6,20 +6,6 @@
     Olá, sou o Leonardo! 
 </p>
 
-<ul>
-    <li>
-        Confira <a href="https://www.frontendmentor.io/profile/Leo-Henrique">meus projetos / perfil no Frontend Mentor</a>.
-    </li>
-    <li>
-        Confira <a href="https://www.npmjs.com/~leo-henrique">meus pacotes no NPM</a>.
-    </li>
-    <li>
-        Confira <a href="https://github.com/Leo-Henrique?tab=repositories&q=clone&type=&language=&sort=">meus clones de interfaces</a>.
-    </li>
-</ul>
-
-<br>
-
 <div align="center">
     <a href="https://github.com/Leo-Henrique">
     <img height="160em" 
@@ -31,34 +17,22 @@
 <br>
 
 <div align="center">
-    <img alt="HTML" 
-    height="40" 
-    width="50" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img alt="CSS" 
-    height="40" 
-    width="50" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img alt="JS" 
-    height="40" 
-    width="50" 
+    <img alt="JavaScript" 
+    height="50" 
+    width="70" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img alt="SASS" 
-    height="40" 
-    width="50" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+    <img alt="TypeScript" 
+    height="50" 
+    width="70" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+    <img alt="Node.js" 
+    height="50" 
+    width="70" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
     <img alt="React" 
-    height="40" 
-    width="50" 
+    height="50" 
+    width="70" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    <img alt="Redux" 
-    height="40" 
-    width="50" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
-    <img alt="styled-components" 
-    height="40" 
-    width="40" 
-    src="https://avatars.githubusercontent.com/u/20658825?v=4"/>
 </div>
 
 ---
