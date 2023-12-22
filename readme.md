@@ -1,11 +1,3 @@
-<h1 align="center">
-    Desenvolvedor front-end
-</h1>
-
-<p>
-    Olá, sou o Leonardo! 
-</p>
-
 <div align="center">
     <a href="https://github.com/Leo-Henrique">
     <img height="160em" 
@@ -17,10 +9,6 @@
 <br>
 
 <div align="center">
-    <img alt="JavaScript" 
-    height="50" 
-    width="70" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
     <img alt="TypeScript" 
     height="50" 
     width="70" 
@@ -38,7 +26,7 @@
 ---
 
 <div align="center">
-    <a href="mailto: leonardo0507.henrique@gmail.com" 
+    <a href="mailto:leonardo0507.business@gmail.com" 
     target="_blank">
         <img style="border-radius: 5px"
         src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
